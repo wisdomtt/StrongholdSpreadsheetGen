@@ -11,7 +11,6 @@
 		0D5D21961C936B9B0051024C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D5D21951C936B9B0051024C /* main.m */; };
 		0D5D21981C936B9B0051024C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D5D21971C936B9B0051024C /* Assets.xcassets */; };
 		0D5D219B1C936B9B0051024C /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D5D21991C936B9B0051024C /* MainMenu.xib */; };
-		0D86A9CE1D83270D00796A93 /* Blank.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D86A9CD1D83270D00796A93 /* Blank.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,8 +21,6 @@
 		0D5D21971C936B9B0051024C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D5D219A1C936B9B0051024C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		0D5D219C1C936B9B0051024C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0D86A9CD1D83270D00796A93 /* Blank.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Blank.m; sourceTree = "<group>"; };
-		0D86A9CF1D83271600796A93 /* Blank.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Blank.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,8 +59,6 @@
 				0D5D21991C936B9B0051024C /* MainMenu.xib */,
 				0D5D219C1C936B9B0051024C /* Info.plist */,
 				0D5D21941C936B9B0051024C /* Supporting Files */,
-				0D86A9CD1D83270D00796A93 /* Blank.m */,
-				0D86A9CF1D83271600796A93 /* Blank.h */,
 			);
 			path = Upload;
 			sourceTree = "<group>";
@@ -145,7 +140,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D86A9CE1D83270D00796A93 /* Blank.m in Sources */,
 				0D5D21961C936B9B0051024C /* main.m in Sources */,
 				0D5D21931C936B9B0051024C /* AppDelegate.m in Sources */,
 			);
